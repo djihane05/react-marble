@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-marble/static/css/main.0626e5b7.css",
-    "main.js": "/react-marble/static/js/main.6e94ac63.js",
+    "main.css": "/react-marble/static/css/main.17ac7a84.css",
+    "main.js": "/react-marble/static/js/main.7383f3cb.js",
     "static/media/golden-black.jpg": "/react-marble/static/media/golden-black.2957ecb93769daf826ce.jpg",
     "static/media/Tam-noir.jpg": "/react-marble/static/media/Tam-noir.b03e5da6cc3fb4aa9fcf.jpg",
     "static/media/quartz-metropolis-beige-2cm.jpg": "/react-marble/static/media/quartz-metropolis-beige-2cm.7cf29e0f36fd72eba4df.jpg",
@@ -20,11 +20,11 @@
     "static/media/paradiso.jpg": "/react-marble/static/media/paradiso.faad51dd9e3a86313d52.jpg",
     "static/media/quartz-noir.webp": "/react-marble/static/media/quartz-noir.7b72b64a388b13c6ec90.webp",
     "index.html": "/react-marble/index.html",
-    "main.0626e5b7.css.map": "/react-marble/static/css/main.0626e5b7.css.map",
-    "main.6e94ac63.js.map": "/react-marble/static/js/main.6e94ac63.js.map"
+    "main.17ac7a84.css.map": "/react-marble/static/css/main.17ac7a84.css.map",
+    "main.7383f3cb.js.map": "/react-marble/static/js/main.7383f3cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.0626e5b7.css",
-    "static/js/main.6e94ac63.js"
+    "static/css/main.17ac7a84.css",
+    "static/js/main.7383f3cb.js"
   ]
 }
