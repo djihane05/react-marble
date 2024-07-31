@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-marble/static/css/main.0626e5b7.css",
+    "main.js": "/react-marble/static/js/main.6e94ac63.js",
+    "static/media/golden-black.jpg": "/react-marble/static/media/golden-black.2957ecb93769daf826ce.jpg",
+    "static/media/Tam-noir.jpg": "/react-marble/static/media/Tam-noir.b03e5da6cc3fb4aa9fcf.jpg",
+    "static/media/quartz-metropolis-beige-2cm.jpg": "/react-marble/static/media/quartz-metropolis-beige-2cm.7cf29e0f36fd72eba4df.jpg",
+    "static/media/quartz.jpg": "/react-marble/static/media/quartz.6207026ef2bf53195c2b.jpg",
+    "static/media/blanc-marbre.jpg": "/react-marble/static/media/blanc-marbre.08c58ba6e70def35535b.jpg",
+    "static/media/Rouge-multicolor.jpg": "/react-marble/static/media/Rouge-multicolor.3e47dd4d412b8e0cb0f6.jpg",
+    "static/media/bgnd.jpg": "/react-marble/static/media/bgnd.f3c733158fcdd3858e4a.jpg",
+    "static/media/VERT-INDIEN.jpg": "/react-marble/static/media/VERT-INDIEN.d6c9f9c9e5796282d472.jpg",
+    "static/media/imperial.jpg": "/react-marble/static/media/imperial.1430e61cfcda95a27fcd.jpg",
+    "static/media/galaxy.jpg": "/react-marble/static/media/galaxy.e7967c474cd2a634b5df.jpg",
+    "static/media/marron1.jpg": "/react-marble/static/media/marron1.9a02baec53f3b8a89dae.jpg",
+    "static/media/tan_brown_granite.jpg": "/react-marble/static/media/tan_brown_granite.ecccef1d81d0f5f47e54.jpg",
+    "static/media/G640.jpg": "/react-marble/static/media/G640.971453dc9a3cfbe05856.jpg",
+    "static/media/labrador-blue.jpg": "/react-marble/static/media/labrador-blue.a92e6e9705ae575a10d8.jpg",
+    "static/media/crema-marfil.jpg": "/react-marble/static/media/crema-marfil.f2ff5bb045e17529e0c5.jpg",
+    "static/media/paradiso.jpg": "/react-marble/static/media/paradiso.faad51dd9e3a86313d52.jpg",
+    "static/media/quartz-noir.webp": "/react-marble/static/media/quartz-noir.7b72b64a388b13c6ec90.webp",
+    "index.html": "/react-marble/index.html",
+    "main.0626e5b7.css.map": "/react-marble/static/css/main.0626e5b7.css.map",
+    "main.6e94ac63.js.map": "/react-marble/static/js/main.6e94ac63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0626e5b7.css",
+    "static/js/main.6e94ac63.js"
+  ]
+}
