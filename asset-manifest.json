@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-marble/static/css/main.d1d94356.css",
-    "main.js": "/react-marble/static/js/main.34d13c4d.js",
+    "main.js": "/react-marble/static/js/main.fe6adf01.js",
     "static/media/golden-black.jpg": "/react-marble/static/media/golden-black.2957ecb93769daf826ce.jpg",
     "static/media/Tam-noir.jpg": "/react-marble/static/media/Tam-noir.b03e5da6cc3fb4aa9fcf.jpg",
     "static/media/quartz-metropolis-beige-2cm.jpg": "/react-marble/static/media/quartz-metropolis-beige-2cm.7cf29e0f36fd72eba4df.jpg",
@@ -21,10 +21,10 @@
     "static/media/quartz-noir.webp": "/react-marble/static/media/quartz-noir.7b72b64a388b13c6ec90.webp",
     "index.html": "/react-marble/index.html",
     "main.d1d94356.css.map": "/react-marble/static/css/main.d1d94356.css.map",
-    "main.34d13c4d.js.map": "/react-marble/static/js/main.34d13c4d.js.map"
+    "main.fe6adf01.js.map": "/react-marble/static/js/main.fe6adf01.js.map"
   },
   "entrypoints": [
     "static/css/main.d1d94356.css",
-    "static/js/main.34d13c4d.js"
+    "static/js/main.fe6adf01.js"
   ]
 }
