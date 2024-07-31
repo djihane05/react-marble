@@ -20,7 +20,7 @@ function Produits() {
     <div name ="produits" className='bg-[#071807] w-full    '>
 <h1 className='text-white text-3xl flex justify-center font-bold  p-4 border-b-2 border-[#994d00] '>Nos Produits</h1>
 <Categories filterItems={filterItems} categories={categories} />
-<div className=" p-8 grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 gap-4">
+<div className=" p-8 grid  sm:grid-cols-4 md:grid-cols-5 gap-4">
           
           {project.map((item, index) => (
   <div

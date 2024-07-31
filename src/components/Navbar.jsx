@@ -23,25 +23,21 @@ const Navbar = () => {
       {/* menu */}
       <ul className='hidden md:flex'>
         <li>
-          <Link to='home' smooth={true} duration={500}>
-            Home
+          <Link to='acceuil' smooth={true} duration={500}>
+            Acceuil
           </Link>
         </li>
         <li>
-          <Link to='about' smooth={true} duration={500}>
-            About
+          <Link to='apropos' smooth={true} duration={500}>
+            Apropos ?
           </Link>
         </li>
         <li>
-          <Link to='skills' smooth={true} duration={500}>
-            Skills
+          <Link to='produits' smooth={true} duration={500}>
+            Nos produits
           </Link>
         </li>
-        <li>
-          <Link to='work' smooth={true} duration={500}>
-            Work
-          </Link>
-        </li>
+    
         <li>
           <Link to='contact' smooth={true} duration={500}>
             Contact
@@ -63,33 +59,31 @@ const Navbar = () => {
         }
       >
         <li className='py-6 text-4xl'>
-          <Link onClick={handleClick} to='home' smooth={true} duration={500}>
-            Home
+          <Link onClick={handleClick} to='' smooth={true} duration={500}>
+            Acceuil
           </Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link onClick={handleClick} to='about' smooth={true} duration={500}>
-            About
+          <Link onClick={handleClick} to='Apropos' smooth={true} duration={500}>
+            apropos ?
           </Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link onClick={handleClick} to='skills' smooth={true} duration={500}>
-            Skills
+          <Link onClick={handleClick} to='Produits' smooth={true} duration={500}>
+            Nos produits
           </Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link onClick={handleClick} to='work' smooth={true} duration={500}>
-            Work
+          <Link onClick={handleClick} to='Contact' smooth={true} duration={500}>
+            contact
           </Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link onClick={handleClick} to='contact' smooth={true} duration={500}>
-            Contact
-          </Link>
+        
         </li>
       </ul>
 
